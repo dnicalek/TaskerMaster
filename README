@@ -8,7 +8,7 @@ Uruchamianie aplikacji
 
 1. Upewnij się, że masz zainstalowanego Dockera na swoim systemie.
 2. Sklonuj repozytorium TaskerMaster z GitHuba. 
-  git clone https://github.com/nazwa_uzytkownika/TaskerMaster.git
+  git clone https://github.com/dnicalek/TaskerMaster.git
 3. Przejdź do katalogu TaskerMaster.
   cd TaskerMaster
 4. Zbuduj obrazy Dockera dla aplikacji.
